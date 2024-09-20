@@ -37,7 +37,7 @@ Java 架构师学习笔记
 #### &emsp;&emsp;[4. 单系统高并发优化]()
 
 ##### &emsp;&emsp;&emsp;&emsp;[4.1 缓存优化](https://kh6ihp0443.feishu.cn/docx/C8AXdotZ8owQLXxiVMgcXkfOnbe?from=from_copylink)
-##### &emsp;&emsp;&emsp;&emsp;[4.2 线程安全问题](https://kh6ihp0443.feishu.cn/wiki/Ts6QwPLmOikEQFkPHrkcIsMZnYe?from=from_copylink)
+##### &emsp;&emsp;&emsp;&emsp;[4.2 线程安全问题](https://kh6ihp0443.feishu.cn/docx/A8BMdC6igoH6zuxLTjccsxzInge?from=from_copylink)
 
 ---
 
