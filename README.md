@@ -60,11 +60,11 @@ Java 架构师学习笔记
 
 ### [02 | 分布式系统]()
 
-#### &emsp;&emsp;[1.性能检测]()
+#### &emsp;&emsp;[1.性能检测](https://kh6ihp0443.feishu.cn/docx/DyeGdHTu2oxvrvxaCMkcT2sXn2d?from=from_copylink) ✅
 
 #### &emsp;&emsp;[2. 集群部署负载均衡]()
 
-##### &emsp;&emsp;&emsp;&emsp;[2.1 负载均衡导学]()
+##### &emsp;&emsp;&emsp;&emsp;[2.1 负载均衡导学](https://kh6ihp0443.feishu.cn/docx/M6OAdOePLopBajxJBrCcGakLnVg?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[2.2 Nginx 入门]()
 ##### &emsp;&emsp;&emsp;&emsp;[2.3 LVS 负载均衡技术]()
 ##### &emsp;&emsp;&emsp;&emsp;[2.4 结合云平台的负载均衡技术]()
@@ -75,7 +75,7 @@ Java 架构师学习笔记
 
 #### &emsp;&emsp;[3. 集中式缓存 Redis]()
 
-##### &emsp;&emsp;&emsp;&emsp;[3.1 导学入门]()
+##### &emsp;&emsp;&emsp;&emsp;[3.1 导学入门](https://kh6ihp0443.feishu.cn/docx/SGLDd8lDCokO9JxrCLMc37NWnQe?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[3.2 Redis 应用详解]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.3 Redis 底层原理分析]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.4 Memcached]()
