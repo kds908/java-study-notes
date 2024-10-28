@@ -77,6 +77,23 @@ Java 架构师学习笔记
 
 ##### &emsp;&emsp;&emsp;&emsp;[3.1 导学入门](https://kh6ihp0443.feishu.cn/docx/SGLDd8lDCokO9JxrCLMc37NWnQe?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[3.2 Redis 应用详解]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.1 Redis 入门]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.2 Redis 操作]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.3 利用Redis支撑十万级并发]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.4 Spring 与 Redis 集成方式及缓存注解原理]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.5 直播系统后台接口中是如何使用Redis的]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.6 基于 Redis 实现直播间聊天室后台支撑系统]() 
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.7 用 Redis 实现附近的帅哥美女查询功能]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.8 发布订阅机制]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.9 Redis 持久化机制]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.10 Redis 内存管理]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.11 Redis 主从复制]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.12 哨兵高可用机制]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.13 Redis 集群分片存储]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.14 Redis 集群监控]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.15 缓存失效导致雪崩的危害及应对方案]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.16 缓存击穿的风险和应对方案]()
+
 ##### &emsp;&emsp;&emsp;&emsp;[3.3 Redis 底层原理分析]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.4 Memcached]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.5 Redis 实战]()
