@@ -77,8 +77,8 @@ Java 架构师学习笔记
 
 ##### &emsp;&emsp;&emsp;&emsp;[3.1 导学入门](https://kh6ihp0443.feishu.cn/docx/SGLDd8lDCokO9JxrCLMc37NWnQe?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[3.2 Redis 应用详解]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.1 Redis 入门]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.2 Redis 操作]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.1 Redis 入门](https://kh6ihp0443.feishu.cn/docx/FDaBdwkJQoqmoAxotDIcSkhfn9f?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.2 Redis 操作](https://kh6ihp0443.feishu.cn/docx/XHTSdyh6EoI7hexoWBDccJUnnyb?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.3 利用Redis支撑十万级并发](https://kh6ihp0443.feishu.cn/docx/GgrkdehU8oK9tmxjuQqcfMP3n9e?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.4 Spring 与 Redis 集成方式及缓存注解原理]()
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.5 直播系统后台接口中是如何使用Redis的]()
