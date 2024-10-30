@@ -81,9 +81,9 @@ Java 架构师学习笔记
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.2 Redis 操作](https://kh6ihp0443.feishu.cn/docx/XHTSdyh6EoI7hexoWBDccJUnnyb?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.3 利用Redis支撑十万级并发](https://kh6ihp0443.feishu.cn/docx/GgrkdehU8oK9tmxjuQqcfMP3n9e?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.4 Spring 与 Redis 集成方式及缓存注解原理]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.5 直播系统后台接口中是如何使用Redis的]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.5 直播系统后台接口中是如何使用 Redis 的]()
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.6 基于 Redis 实现直播间聊天室后台支撑系统]() 
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.7 用 Redis 实现附近的帅哥美女查询功能]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.7 用 Redis 实现附近的人查询功能](https://kh6ihp0443.feishu.cn/docx/BjthddoWgomG06xx3R0ceyWsnje?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.8 发布订阅机制]()
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.9 Redis 持久化机制]()
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.10 Redis 内存管理]()
