@@ -5,7 +5,11 @@ Java 架构师学习笔记
 
 学习课程内容：网易云课堂微专业《Java高级架构师》
 
-注：✅ 表示当前章节已完成
+注：
+
+✅ 表示当前章节已完成
+
+✨ 更新优先级高的章节
 
 ========= 个人学习笔记，谢绝转载 ==========
 
@@ -20,7 +24,7 @@ Java 架构师学习笔记
 ### [01 | 单节点系统]()
 
 #### &emsp;&emsp;[1. 框架应用]()
-#### &emsp;&emsp;[2. Java 核心基础]()
+#### &emsp;&emsp;[2. Java 核心基础]() ✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[2.1 Java 程序运行原理分析](https://kh6ihp0443.feishu.cn/docx/Ty0mdOSfmo0HgJxbXOgcAQlznF1?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[2.2 多线程核心]()
@@ -38,7 +42,7 @@ Java 架构师学习笔记
 ##### &emsp;&emsp;&emsp;&emsp;[3.2 JVM 性能优化实战](https://kh6ihp0443.feishu.cn/docx/ZkYPdTo2eopGpQxPVohcZhIwn9K?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[3.3 Tomcat 容器优化](https://kh6ihp0443.feishu.cn/docx/DcoTdKLZmohvx8xJO1Ecxf7mnNb?from=from_copylink) ✅
 
-#### &emsp;&emsp;[4. 单系统高并发优化]()
+#### &emsp;&emsp;[4. 单系统高并发优化]() ✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[4.1 缓存优化](https://kh6ihp0443.feishu.cn/docx/C8AXdotZ8owQLXxiVMgcXkfOnbe?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[4.2 线程安全问题](https://kh6ihp0443.feishu.cn/docx/A8BMdC6igoH6zuxLTjccsxzInge?from=from_copylink) ✅
@@ -73,7 +77,7 @@ Java 架构师学习笔记
 ##### &emsp;&emsp;&emsp;&emsp;[2.7 云平台负载均衡实操]()
 ##### &emsp;&emsp;&emsp;&emsp;[2.8 实践案例]()
 
-#### &emsp;&emsp;[3. 集中式缓存 Redis]()
+#### &emsp;&emsp;[3. 集中式缓存 Redis]() ✨✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[3.1 导学入门](https://kh6ihp0443.feishu.cn/docx/SGLDd8lDCokO9JxrCLMc37NWnQe?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[3.2 Redis 应用详解]()
@@ -98,7 +102,7 @@ Java 架构师学习笔记
 ##### &emsp;&emsp;&emsp;&emsp;[3.4 Memcached]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.5 Redis 实战]()
 
-#### &emsp;&emsp;[4. 数据存储层优化]()
+#### &emsp;&emsp;[4. 数据存储层优化]() ✨✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[4.1 课程导学]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.2 MySQL 运行原理分析]()
@@ -140,14 +144,14 @@ Java 架构师学习笔记
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[1.5.4 企业级电商领域建模真实案例解析]()
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[1.5.5 企业级服务拆分的真实案例解析]()
 
-#### &emsp;&emsp;[2. 分布式系统拆分实战]()
+#### &emsp;&emsp;[2. 分布式系统拆分实战]() ✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[2.1 背景]()
 ##### &emsp;&emsp;&emsp;&emsp;[2.2 服务化的基础设施简介]()
-##### &emsp;&emsp;&emsp;&emsp;[2.3 Java RPC 通信]()
+##### &emsp;&emsp;&emsp;&emsp;[2.3 Java RPC 通信]() ✨
 ##### &emsp;&emsp;&emsp;&emsp;[2.4 Maven 模板工程搭建]()
 
-#### &emsp;&emsp;[3. 分布式系统解耦]()
+#### &emsp;&emsp;[3. 分布式系统解耦]() ✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[3.1 耦合以及耦合带来的问题]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.2 服务依赖解耦方法]()
@@ -161,7 +165,7 @@ Java 架构师学习笔记
 ##### &emsp;&emsp;&emsp;&emsp;[3.10 Kafka]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.11 RocketMQ]()
 
-#### &emsp;&emsp;[4. 服务化集群管理 Dubbo 高阶实战]()
+#### &emsp;&emsp;[4. 服务化集群管理 Dubbo 高阶实战]() ✨✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[4.1 Dubbo 源码剖析]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.2 Dubbo更多使用特性]()
@@ -176,7 +180,7 @@ Java 架构师学习笔记
 
 ### [04 | 容器化微服务]()
 
-#### &emsp;&emsp;[1. 微服务架构 Dubbo vs. Spring Cloud]()
+#### &emsp;&emsp;[1. 微服务架构 Dubbo vs. Spring Cloud]() ✨✨
 
 ##### &emsp;&emsp;&emsp;&emsp;[1.0 章节背景]()
 ##### &emsp;&emsp;&emsp;&emsp;[1.1 微服务的概念与优势]()
