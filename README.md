@@ -86,17 +86,17 @@ Java 架构师学习笔记
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.3 利用Redis支撑十万级并发](https://kh6ihp0443.feishu.cn/docx/GgrkdehU8oK9tmxjuQqcfMP3n9e?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.4 Spring 与 Redis 集成方式及缓存注解原理](https://kh6ihp0443.feishu.cn/docx/SsXEdjaGFo35v7x6JvHcNYuwnzb?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.5 直播系统后台接口中是如何使用 Redis 的](https://kh6ihp0443.feishu.cn/docx/AENPde42moAC3Sx2PTKcjFCSnvd?from=from_copylink) ✅
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.6 基于 Redis 实现直播间聊天室后台支撑系统]() 
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.6 基于 Redis 实现直播间聊天室后台支撑系统](https://kh6ihp0443.feishu.cn/docx/YPqPdjUNxoRLrzx9LFncyRYxnib?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.7 用 Redis 实现附近的人查询功能](https://kh6ihp0443.feishu.cn/docx/BjthddoWgomG06xx3R0ceyWsnje?from=from_copylink) ✅
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.8 发布订阅机制]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.9 Redis 持久化机制]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.10 Redis 内存管理]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.11 Redis 主从复制]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.12 哨兵高可用机制]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.8 发布订阅机制](https://kh6ihp0443.feishu.cn/docx/HYNqdCuQkoAGNDxJKNacerWbntg?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.9 Redis 持久化机制](https://kh6ihp0443.feishu.cn/docx/SZg8d0aQKo2EVfxABOucfgmknAN?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.10 Redis 内存管理](https://kh6ihp0443.feishu.cn/docx/TRkZd5S5Oo4mvhxDaf1cIw1Inpc?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.11 Redis 主从复制](https://kh6ihp0443.feishu.cn/docx/HxIEdfoSFohXIQxQ3gKccQRbnAf?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.12 哨兵高可用机制](https://kh6ihp0443.feishu.cn/docx/Y1JLdl5TOoYtJkx6HEIcA4mHnUh?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.13 Redis 集群分片存储]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.14 Redis 集群监控]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.15 缓存失效导致雪崩的危害及应对方案]()
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.16 缓存击穿的风险和应对方案]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.14 Redis 集群监控](https://kh6ihp0443.feishu.cn/docx/Opf0dxMymoKvADxgE5ScvzyOn9p?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.15 缓存失效导致雪崩的危害及应对方案](https://kh6ihp0443.feishu.cn/docx/FKBrdB970oXUBcx82I7cv6Nrnq3?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.16 缓存击穿的风险和应对方案](https://kh6ihp0443.feishu.cn/docx/PyLJdfwjooqCOCx98yHc2RsVn5d?from=from_copylink) ✅
 
 ##### &emsp;&emsp;&emsp;&emsp;[3.3 Redis 底层原理分析]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.4 Memcached]()
