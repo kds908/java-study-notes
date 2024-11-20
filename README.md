@@ -47,7 +47,14 @@ Java 架构师学习笔记
 ##### &emsp;&emsp;&emsp;&emsp;[4.1 缓存优化](https://kh6ihp0443.feishu.cn/docx/C8AXdotZ8owQLXxiVMgcXkfOnbe?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[4.2 线程安全问题](https://kh6ihp0443.feishu.cn/docx/A8BMdC6igoH6zuxLTjccsxzInge?from=from_copylink) ✅
 
-##### &emsp;&emsp;&emsp;&emsp;[4.3 J.U.C 并发编程包](https://kh6ihp0443.feishu.cn/docx/AwSyd7Y6hoCc6Sx4heCcaByYnWb?from=from_copylink)
+##### &emsp;&emsp;&emsp;&emsp;[4.3 J.U.C 并发编程包]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.1 Lock 接口](https://kh6ihp0443.feishu.cn/docx/R23gdSBLto07JBxUGBCcTT5Wntd?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.2 读写锁与 AQS](https://kh6ihp0443.feishu.cn/docx/EPLIdvNN9ob5Vkx2cORchtQRnif?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.3 并发容器类](https://kh6ihp0443.feishu.cn/docx/PAiodZQ96o5MoHxIQ0Vcrf96nog?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.4 并发协同工具](https://kh6ihp0443.feishu.cn/docx/W4gbdCX0PoBlfwxVX9Fc2OHUnnb?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.5 FutureTask 核心思想]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.6 Fork/Join 并发处理框架]()
+
 ##### &emsp;&emsp;&emsp;&emsp;[4.4 异步优化]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.4 单机限流](https://kh6ihp0443.feishu.cn/docx/SES9dx7m7owBRTxdV7QcqRcenI5?from=from_copylink) ✅
 
@@ -57,7 +64,11 @@ Java 架构师学习笔记
 ##### &emsp;&emsp;&emsp;&emsp;[5.2 Mybatis 框架原理]()
 ##### &emsp;&emsp;&emsp;&emsp;[5.3 Spring Boot 框架原理]()
 ##### &emsp;&emsp;&emsp;&emsp;[5.4 Netty 框架源码学习]()
+
 ##### &emsp;&emsp;&emsp;&emsp;[5.5 Netty 实践分享]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[5.5.1 Netty 构建百万连接](https://kh6ihp0443.feishu.cn/docx/X7cIdKGPco1hNIx2rhtcX9yYnKe?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[5.5.2 Netty 实战中的注意事项](https://kh6ihp0443.feishu.cn/docx/S0YrdV3tDoqxwkx6sJsc1W7UnAf?from=from_copylink) ✅
+
 ##### &emsp;&emsp;&emsp;&emsp;[5.6 Spring Webflux]()
 
 ---
@@ -100,7 +111,14 @@ Java 架构师学习笔记
 
 ##### &emsp;&emsp;&emsp;&emsp;[3.3 Redis 底层原理分析]()
 ##### &emsp;&emsp;&emsp;&emsp;[3.4 Memcached]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.4.1 Memcached 协议](https://kh6ihp0443.feishu.cn/docx/N3PodQkGLoDZybxnvq4c5WoNnOb?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.4.2 Memcached 工作原理及优缺点](https://kh6ihp0443.feishu.cn/docx/AANCdoOiZoZD7TxUpJ9c96CbnYg?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.4.3 缓存和数据库更新一致性原则](https://kh6ihp0443.feishu.cn/docx/MKygdsVzToItoUx4BFocFcKGnch?from=from_copylink) ✅
+
 ##### &emsp;&emsp;&emsp;&emsp;[3.5 Redis 实战]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.5.1 实现定时消息通知](https://kh6ihp0443.feishu.cn/docx/P5FgduWXUoTNksxL3aFcH884nHh?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.5.2 数据计数 / 订单号生成]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.5.1 技术分享 【考拉海购】缓存应用实践]()
 
 #### &emsp;&emsp;[4. 数据存储层优化]() ✨✨
 
@@ -112,7 +130,7 @@ Java 架构师学习笔记
 ##### &emsp;&emsp;&emsp;&emsp;[4.6 数据变更注意事项]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.7 数据库中间件设计]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.8 MyCat 数据库集群中间件]()
-##### &emsp;&emsp;&emsp;&emsp;[4.9 Sharding-JDBC 数据库操作增强类库]()
+##### &emsp;&emsp;&emsp;&emsp;[4.9 Sharding - JDBC 数据库操作增强类库]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.10 安全防护]()
 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.10.1 常见的安全问题场景]()
