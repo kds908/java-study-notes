@@ -52,10 +52,10 @@ Java 架构师学习笔记
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.2 读写锁与 AQS](https://kh6ihp0443.feishu.cn/docx/EPLIdvNN9ob5Vkx2cORchtQRnif?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.3 并发容器类](https://kh6ihp0443.feishu.cn/docx/PAiodZQ96o5MoHxIQ0Vcrf96nog?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.4 并发协同工具](https://kh6ihp0443.feishu.cn/docx/W4gbdCX0PoBlfwxVX9Fc2OHUnnb?from=from_copylink) ✅
-###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.5 FutureTask 核心思想]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.5 FutureTask 核心思想](https://kh6ihp0443.feishu.cn/docx/PFbcdNQsQo7iLdxkZaFcvxDKnNh?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.3.6 Fork/Join 并发处理框架]()
 
-##### &emsp;&emsp;&emsp;&emsp;[4.4 异步优化]()
+##### &emsp;&emsp;&emsp;&emsp;[4.4 异步优化](https://kh6ihp0443.feishu.cn/docx/PgX9djxJAoYPOixgD56cksbEnpb?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[4.4 单机限流](https://kh6ihp0443.feishu.cn/docx/SES9dx7m7owBRTxdV7QcqRcenI5?from=from_copylink) ✅
 
 #### &emsp;&emsp;[5. 框架源码]()
@@ -110,6 +110,14 @@ Java 架构师学习笔记
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.2.16 缓存击穿的风险和应对方案](https://kh6ihp0443.feishu.cn/docx/PyLJdfwjooqCOCx98yHc2RsVn5d?from=from_copylink) ✅
 
 ##### &emsp;&emsp;&emsp;&emsp;[3.3 Redis 底层原理分析]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.3.1 Redis 数据结构原理]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.3.1 Redis 数据结构之分布式锁的实现]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.3.1 Redis 持久化]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.3.1 缓存中间件之 Redis 主从模式原理]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.3.1 缓存中间件之 Redis Sentinel 高可用组件]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.3.1 缓存中间件之 Redis Cluster 集群模式]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.3.1 缓存中间件之第三方 Redis 集群模式]()
+
 ##### &emsp;&emsp;&emsp;&emsp;[3.4 Memcached]()
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.4.1 Memcached 协议](https://kh6ihp0443.feishu.cn/docx/N3PodQkGLoDZybxnvq4c5WoNnOb?from=from_copylink) ✅
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[3.4.2 Memcached 工作原理及优缺点](https://kh6ihp0443.feishu.cn/docx/AANCdoOiZoZD7TxUpJ9c96CbnYg?from=from_copylink) ✅
@@ -122,10 +130,10 @@ Java 架构师学习笔记
 
 #### &emsp;&emsp;[4. 数据存储层优化]() ✨✨
 
-##### &emsp;&emsp;&emsp;&emsp;[4.1 课程导学]()
-##### &emsp;&emsp;&emsp;&emsp;[4.2 MySQL 运行原理分析]()
-##### &emsp;&emsp;&emsp;&emsp;[4.3 SQL 查询定位和优化]()
-##### &emsp;&emsp;&emsp;&emsp;[4.4 SQL 查询技巧分析]()
+##### &emsp;&emsp;&emsp;&emsp;[4.1 课程导学](https://kh6ihp0443.feishu.cn/docx/X9fbd05v1oUVhGxyS6kcLfnWnvt?from=from_copylink) ✅
+##### &emsp;&emsp;&emsp;&emsp;[4.2 MySQL 运行原理分析](https://kh6ihp0443.feishu.cn/docx/Jh93dZa2io3oRFxQvnXcA07fn9M?from=from_copylink) ✅
+##### &emsp;&emsp;&emsp;&emsp;[4.3 SQL 查询定位和优化](https://kh6ihp0443.feishu.cn/docx/JcZZd6E88oasBxxUnO4c3PrBnGc?from=from_copylink) ✅
+##### &emsp;&emsp;&emsp;&emsp;[4.4 SQL 查询技巧分析](https://kh6ihp0443.feishu.cn/docx/X22BdY6kwoLAChxtTbjcgIIjnWd?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[4.5 详解数据库锁]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.6 数据变更注意事项]()
 ##### &emsp;&emsp;&emsp;&emsp;[4.7 数据库中间件设计]()
@@ -142,6 +150,12 @@ Java 架构师学习笔记
 ###### [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.10.7 实现简单单点登录系统]()
 
 ##### &emsp;&emsp;&emsp;&emsp;[4.11 搜索引擎 ES]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.11.1 搜索引擎核心理论思想](https://kh6ihp0443.feishu.cn/docx/H2nqdDvifooxSnx2KS5c2oR8n0g?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.11.2 ES 应用场景及核心概念](https://kh6ihp0443.feishu.cn/docx/VG11dSrNeoUomtxdyYhcSH9vnDe?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.11.3 ES 查询语法解析]()
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.11.4 ES 高级查询](https://kh6ihp0443.feishu.cn/docx/NwvAdQ6CooCMmLxt3oSc1sVBn5e?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.11.5 ES 高性能集群](https://kh6ihp0443.feishu.cn/docx/F8Z8dKAvSolk5xxbKYSc0ojkn4e?from=from_copylink) ✅
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[4.11.6 ELK]()
 
 ---
 
@@ -149,10 +163,10 @@ Java 架构师学习笔记
 
 #### &emsp;&emsp;[1. 分布式系统拆分理论]()
 
-##### &emsp;&emsp;&emsp;&emsp;[1.0 章节背景]()
-##### &emsp;&emsp;&emsp;&emsp;[1.1 分布式系统架构演进之路]()
-##### &emsp;&emsp;&emsp;&emsp;[1.2 为什么需要服务化拆分]()
-##### &emsp;&emsp;&emsp;&emsp;[1.3 什么情况下需要服务化拆分]()
+##### &emsp;&emsp;&emsp;&emsp;[1.0 章节背景](https://kh6ihp0443.feishu.cn/docx/P5CXdxm8yo2E2Vx2wLNcyf8knuf?from=from_copylink) ✅
+##### &emsp;&emsp;&emsp;&emsp;[1.1 分布式系统架构演进之路](https://kh6ihp0443.feishu.cn/docx/JPyXdiYTFowAKKxyl2NcC7KAn8c?from=from_copylink) ✅
+##### &emsp;&emsp;&emsp;&emsp;[1.2 为什么需要服务化拆分](https://kh6ihp0443.feishu.cn/docx/IoxOdrsXGoIWNkxOkxHcKrJfnYg?from=from_copylink) ✅
+##### &emsp;&emsp;&emsp;&emsp;[1.3 什么情况下需要服务化拆分](https://kh6ihp0443.feishu.cn/docx/QejudmBJoowVKzxMOaRcbxl0nPg?from=from_copylink) ✅
 ##### &emsp;&emsp;&emsp;&emsp;[1.4 拆分原则]()
 ##### &emsp;&emsp;&emsp;&emsp;[1.5 拆分步骤和方法]()
 
